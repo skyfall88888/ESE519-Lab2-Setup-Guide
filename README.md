@@ -129,6 +129,9 @@ Goal: Setup this Mac for RP2040 development using C/C++ SDK, test compiling and 
     Then drag one of the uf2 file mentioned above onto the usb-drive icon.
     
 6. Hello World displayed on console!
+
+<img width="962" alt="Screen Shot 2022-10-10 at 12 24 15 PM" src="https://user-images.githubusercontent.com/95589555/194929276-cc7ee274-8f01-4583-b440-ddb269b66354.png">
+
               
             
             
